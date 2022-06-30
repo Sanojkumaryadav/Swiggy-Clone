@@ -129,6 +129,15 @@
         }
       ],
       "id": 3
+    },
+    {
+      "userName": "Sanoj",
+      "userEmail": "Sanojky@gmail.com",
+      "userPhoneNumber": "6207893996",
+      "userPassword": "123456",
+      "userCart": [],
+      "userAddresses": [],
+      "id": 4
     }
   ],
   "Restaurants": [
